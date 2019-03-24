@@ -1,0 +1,1 @@
+console.log(nome.replace(1, 't'))
